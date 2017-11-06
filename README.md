@@ -8,7 +8,7 @@ vue init doctorwork/package expert
 
 ##### 开发
 
-- 当前目录执行 npm run dev
+- 当前目录执行 npm link 或者 cnpm link
 - 项目目录 package.json 中 手动添加当前组件包名称和版本, 然后执行 npm link [package] ，即可再项目中使用了。
 
 ```
