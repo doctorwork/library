@@ -1,5 +1,10 @@
 ### 功能组件包开发基础模板
 
+#### 脚手架
+
+```
+vue init doctorwork/package expert
+```
 
 ##### 开发
 
